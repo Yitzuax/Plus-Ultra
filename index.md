@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bienvenido A las Paginas de GitHub
 
 Tu puedes usar el [editor on GitHub](https://github.com/Yitzuax/Plus-Ultra/edit/master/index.md) para mantener y presentar el contenido para tu sitio web en Markdown files.
 
-cuando tu cometer en este repositorio, Las paginas de GitHub van a ejecutar [Jekyll](https://jekyllrb.com/) para reconstruir las paginas en tu sitio, desde el contenido en tu Markdown files.
+cuando tu cometer algo en este repositorio, Las paginas de GitHub van a ejecutar [Jekyll](https://jekyllrb.com/) para reconstruir las paginas en tu sitio, desde el contenido en tu Markdown files.
 
 ### Markdown
 
