@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 para mas detalles ve a [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas de Jekkly
 
 El sitio de Paginas utilizará el diseño y los estilos del tema Jekyll que ha seleccionado en su [repository settings](https://github.com/Yitzuax/Plus-Ultra/settings). El nombre de este tema se guarda en el Jekyll `_config.yml` archivo de configuración.
 
-### Support or Contact
+### Contacto y Soporte
 
 ¿Tiene problemas con Páginas? Echa un vistazo a nuestro [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) y te ayudaremos a solucionarlo.
